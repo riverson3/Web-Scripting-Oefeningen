@@ -1,0 +1,10 @@
+let c = 7;
+let d = 10;
+console.log(c == d);
+console.log(c === d);
+console.log(c != d);
+console.log(c !== d);
+console.log(c < d);
+console.log(c > d);
+console.log(c <= d);
+console.log(c >= d);
