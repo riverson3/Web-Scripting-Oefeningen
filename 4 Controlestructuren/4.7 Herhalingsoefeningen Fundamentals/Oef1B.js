@@ -1,6 +1,5 @@
 let prompt = require("prompt-sync")();
 let aantal = Number(prompt("Geef het aantal lijnen: "));
-let driehoek="";
 
 for(let i=1; i <= aantal; i++){
     let spatie = " ";
@@ -13,6 +12,3 @@ for(let i=1; i <= aantal; i++){
     }
     console.log(spatie);
 }
-
-
-        
