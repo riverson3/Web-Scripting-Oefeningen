@@ -1,6 +1,5 @@
 let getallen = [2,5,9,6,5];
 
-
 function DoubbeleVerwijderen(getallen){
     let nieuweGetallen = [];
 
